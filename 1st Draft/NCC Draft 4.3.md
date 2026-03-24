@@ -1,0 +1,3 @@
+# Temporal Stability Analysis and Correlation
+
+To evaluate whether the strength of correlations between variables changed over time, we performed a temporal correlation analysis by systematically adjusting the study period. Starting with the complete dataset from 1997 to 2023 (27 years), we progressively shortened the analysis period by one year at a time. Changes in correlation coefficients and p-values were recorded to identify relationship shifts between variables. This stepwise approach allowed us to pinpoint periods during which correlations became statistically significant or exhibited notable variations.
